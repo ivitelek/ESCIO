@@ -3,6 +3,7 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        
+        <Label Content="WORKING IN PROGRESS" HorizontalAlignment="Left" Margin="173,116,0,0" VerticalAlignment="Top" Height="77" Width="183"/>
+
     </Grid>
 </Window>
